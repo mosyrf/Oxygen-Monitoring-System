@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "RT9193-33GB")(type "KiCad")(uri "${KICAD7_SYMBOL_DIR}/RT9193-33GB.kicad_sym")(options "")(descr ""))
+)

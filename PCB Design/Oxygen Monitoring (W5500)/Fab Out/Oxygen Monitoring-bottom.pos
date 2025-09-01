@@ -1,0 +1,17 @@
+### Module positions - created on Tue Apr 30 16:29:54 2024 ###
+### Printed by Pcbnew version (6.0.11)
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val       Package                                           PosX       PosY       Rot  Side
+C15       100n      C_0805_2012Metric_Pad1.18x1.45mm_HandSolder   -75.7685  -140.6088  180.0000  bottom
+C26       100n      C_0805_2012Metric_Pad1.18x1.45mm_HandSolder   -95.4596  -137.1798  180.0000  bottom
+C27       100n      C_0805_2012Metric_Pad1.18x1.45mm_HandSolder   -95.4596  -151.1752  180.0000  bottom
+C28       1u        C_0805_2012Metric_Pad1.18x1.45mm_HandSolder   -95.4596  -143.5806   90.0000  bottom
+C33       4.7u      C_0805_2012Metric_Pad1.18x1.45mm_HandSolder   -67.2148  -178.6834  -90.0000  bottom
+C34       10n       C_0805_2012Metric_Pad1.18x1.45mm_HandSolder   -66.1226  -174.2130  -90.0000  bottom
+R5        4K7       R_0805_2012Metric_Pad1.20x1.40mm_HandSolder   -63.2524  -143.1996  180.0000  bottom
+R6        4K7       R_0805_2012Metric_Pad1.20x1.40mm_HandSolder   -55.8102  -143.1742    0.0000  bottom
+R7        100K      R_0805_2012Metric_Pad1.20x1.40mm_HandSolder   -34.1036  -137.5304   90.0000  bottom
+R8        100K      R_0805_2012Metric_Pad1.20x1.40mm_HandSolder   -46.1686  -137.5304   90.0000  bottom
+R28       12K4      R_0805_2012Metric_Pad1.20x1.40mm_HandSolder   -82.1246  -174.1915   90.0000  bottom
+## End
