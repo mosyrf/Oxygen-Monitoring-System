@@ -1,0 +1,12 @@
+Untuk rangkaian modbus485 saya baca referensinya dari sini pak:
+How is this RS485 Module Working?
+https://electronics.stackexchange.com/questions/244425/how-is-this-rs485-module-working
+
+Why less protection on a GPIO RS485 board compared to an UART RS485 board?
+https://electronics.stackexchange.com/questions/446922/why-less-protection-on-a-gpio-rs485-board-compared-to-an-uart-rs485-board
+
+TTL signal is weaker when connected from CD4069 to RX
+https://forum.arduino.cc/t/ttl-signal-is-weaker-when-connected-from-cd4069-to-rx/895698/8
+
+RS-485 protection
+https://www.eevblog.com/forum/beginners/rs-485-protection/

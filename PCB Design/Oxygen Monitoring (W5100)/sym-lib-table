@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "RT9193-33")(type "KiCad")(uri "${KIPRJMOD}/lib/RT9193-33GB/RT9193-33GB.kicad_sym")(options "")(descr ""))
+)

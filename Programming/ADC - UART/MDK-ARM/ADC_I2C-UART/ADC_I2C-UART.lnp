@@ -1,0 +1,28 @@
+--cpu Cortex-M3
+"adc_i2c-uart\startup_stm32f103xb.o"
+"adc_i2c-uart\main.o"
+"adc_i2c-uart\stm32f1xx_it.o"
+"adc_i2c-uart\stm32f1xx_hal_msp.o"
+"adc_i2c-uart\lcd16x2_i2c.o"
+"adc_i2c-uart\stm32f1xx_hal_gpio_ex.o"
+"adc_i2c-uart\stm32f1xx_hal_adc.o"
+"adc_i2c-uart\stm32f1xx_hal_adc_ex.o"
+"adc_i2c-uart\stm32f1xx_hal.o"
+"adc_i2c-uart\stm32f1xx_hal_rcc.o"
+"adc_i2c-uart\stm32f1xx_hal_rcc_ex.o"
+"adc_i2c-uart\stm32f1xx_hal_gpio.o"
+"adc_i2c-uart\stm32f1xx_hal_dma.o"
+"adc_i2c-uart\stm32f1xx_hal_cortex.o"
+"adc_i2c-uart\stm32f1xx_hal_pwr.o"
+"adc_i2c-uart\stm32f1xx_hal_flash.o"
+"adc_i2c-uart\stm32f1xx_hal_flash_ex.o"
+"adc_i2c-uart\stm32f1xx_hal_exti.o"
+"adc_i2c-uart\stm32f1xx_hal_i2c.o"
+"adc_i2c-uart\stm32f1xx_hal_tim.o"
+"adc_i2c-uart\stm32f1xx_hal_tim_ex.o"
+"adc_i2c-uart\stm32f1xx_hal_uart.o"
+"adc_i2c-uart\system_stm32f1xx.o"
+--strict --scatter "ADC_I2C-UART\ADC_I2C-UART.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "ADC_I2C-UART.map" -o ADC_I2C-UART\ADC_I2C-UART.axf
